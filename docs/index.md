@@ -49,4 +49,4 @@ membridge mine
 membridge search "your project"
 ```
 
-Read the full quickstart →
+Read the full [Quick Start](quickstart) →
