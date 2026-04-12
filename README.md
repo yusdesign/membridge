@@ -5,7 +5,7 @@
 > *"Every conversation you have disappears. MemBridge keeps it forever."*
 
 <p align="center">
-  <img src="assets/logo.svg" alt="MemBridge Logo" width="200"/>
+  <img src="assets/logo.svg" alt="MemBridge Logo" width="500"/>
 </p>
 
 <p align="center">
