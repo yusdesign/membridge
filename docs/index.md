@@ -6,10 +6,10 @@ description: Zero-dependency memory system for Termux AI assistants
 
 # 🏛️ MemBridge
 
-![MemBridge Logo](assets/logo.svg)
+![MemBridge Logo](../assets/logo.svg)  
 
 <p align="center">
-  <img src="/assets/logo.svg" alt="MemBridge Logo" width="500"/>
+  <img src="../assets/logo.svg" alt="MemBridge Logo" width="500"/>
 </p>
 
 **Termux-native memory palace for AI assistants**
