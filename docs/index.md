@@ -6,6 +6,8 @@ description: Zero-dependency memory system for Termux AI assistants
 
 # 🏛️ MemBridge
 
+![MemBridge Logo](/assets/lovo.svg)
+
 <p align="center">
   <img src="/assets/logo.svg" alt="MemBridge Logo" width="500"/>
 </p>
